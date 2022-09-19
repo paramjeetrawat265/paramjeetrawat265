@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me [Gmail](https://www.paramjeetrawat265@gmail.com) && [LinkedIn](https://www.linkedin.com/in/paramjeet-rawat-923597197/) 
+- 📫 How to reach me [Gmail](mailto:paramjeetrawat265@gmail.com) && [LinkedIn](https://www.linkedin.com/in/paramjeet-rawat-923597197/) 
 
 - 📄 Know about my experiences [paramjeet](https://drive.google.com/file/d/1tu8SZeKmcDG05Y4_mDfyd_0O0e2Cwz-j/view) 
 
