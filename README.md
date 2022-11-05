@@ -34,9 +34,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paramjeetrawat265" alt="paramjeetrawat265" /></a> </p>
 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paramjeetrawat265&show_icons=true&locale=en&layout=compact" alt="paramjeetrawat265" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paramjeetrawat265&show_icons=true&locale=en&layout=compact" alt="paramjeetrawat265" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paramjeetrawat265&show_icons=true&locale=en" alt="paramjeetrawat265" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=paramjeetrawat265&show_icons=true&locale=en" alt="paramjeetrawat265" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paramjeetrawat265&" alt="paramjeetrawat265" /></p>
