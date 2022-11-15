@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [paramjeetrawat265](paramjeetrawat265.github.io)
+- 👨‍💻 All of my projects are available at [paramjeetrawat265](https://paramjeetrawat265.github.io/)
 
 - 💬 Ask me about **React**
 
